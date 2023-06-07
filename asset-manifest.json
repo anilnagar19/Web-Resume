@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web-Resume/static/css/main.fb58cdc4.css",
-    "main.js": "/Web-Resume/static/js/main.eac7f257.js",
+    "main.js": "/Web-Resume/static/js/main.0c2c9b2b.js",
     "static/js/787.0c33adce.chunk.js": "/Web-Resume/static/js/787.0c33adce.chunk.js",
     "static/media/expOrange.svg": "/Web-Resume/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
     "static/media/expGreen.svg": "/Web-Resume/static/media/expGreen.dffa1cc66a55ae11be49b61753f4c221.svg",
@@ -127,11 +127,11 @@
     "static/media/vuetifyjs.svg": "/Web-Resume/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/Web-Resume/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.fb58cdc4.css.map": "/Web-Resume/static/css/main.fb58cdc4.css.map",
-    "main.eac7f257.js.map": "/Web-Resume/static/js/main.eac7f257.js.map",
+    "main.0c2c9b2b.js.map": "/Web-Resume/static/js/main.0c2c9b2b.js.map",
     "787.0c33adce.chunk.js.map": "/Web-Resume/static/js/787.0c33adce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb58cdc4.css",
-    "static/js/main.eac7f257.js"
+    "static/js/main.0c2c9b2b.js"
   ]
 }
