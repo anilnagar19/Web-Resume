@@ -2,7 +2,7 @@
 import React from 'react'
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import { headerData } from '../../data/headerData'
-import { Navbar,Landing,About } from '../../components'
+import { Navbar,Landing,About,Skills,Education,Experience,Contacts } from '../../components'
 
 
 function Main() {
@@ -15,7 +15,11 @@ function Main() {
                 </Helmet>
                 <Navbar />   
                 <Landing />
-                <About />     
+                <About />   
+                <Skills/>  
+                <Education/>
+                <Experience/>
+                <Contacts/>
             </div>
         </HelmetProvider>
     )
