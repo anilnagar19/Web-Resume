@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Web-Resume/static/css/main.3d19240b.css",
-    "main.js": "/Web-Resume/static/js/main.3413415f.js",
+    "main.js": "/Web-Resume/static/js/main.9d4e282a.js",
     "static/js/787.0c33adce.chunk.js": "/Web-Resume/static/js/787.0c33adce.chunk.js",
     "static/media/placeholder.png": "/Web-Resume/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/Web-Resume/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
@@ -14,6 +14,7 @@
     "static/media/expYellow.svg": "/Web-Resume/static/media/expYellow.22be417c6d1c281c3b4b6ee0e80f0a5f.svg",
     "static/media/webconfernce.svg": "/Web-Resume/static/media/webconfernce.6b7cacba21ae750d595b640f7e4e96d3.svg",
     "static/media/kiosk.svg": "/Web-Resume/static/media/kiosk.8080e26c837a6e972d986688eed1255e.svg",
+    "static/media/nodejs.png": "/Web-Resume/static/media/nodejs.0aeb2c4f4a22b237036c.png",
     "static/media/profile_photo.jpeg": "/Web-Resume/static/media/profile_photo.b7f61d881c45f2bf3999.jpeg",
     "static/media/BestermindRegular.ttf": "/Web-Resume/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/one.svg": "/Web-Resume/static/media/one.a3146128c9b6ecbd1ffa523e1f3f734d.svg",
@@ -131,11 +132,11 @@
     "static/media/vuetifyjs.svg": "/Web-Resume/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/Web-Resume/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.3d19240b.css.map": "/Web-Resume/static/css/main.3d19240b.css.map",
-    "main.3413415f.js.map": "/Web-Resume/static/js/main.3413415f.js.map",
+    "main.9d4e282a.js.map": "/Web-Resume/static/js/main.9d4e282a.js.map",
     "787.0c33adce.chunk.js.map": "/Web-Resume/static/js/787.0c33adce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d19240b.css",
-    "static/js/main.3413415f.js"
+    "static/js/main.9d4e282a.js"
   ]
 }
