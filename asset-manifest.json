@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Web-Resume/static/css/main.fb58cdc4.css",
-    "main.js": "/Web-Resume/static/js/main.1d428e53.js",
+    "main.css": "/Web-Resume/static/css/main.e3abfe56.css",
+    "main.js": "/Web-Resume/static/js/main.a8dfec86.js",
     "static/js/787.0c33adce.chunk.js": "/Web-Resume/static/js/787.0c33adce.chunk.js",
+    "static/media/placeholder.png": "/Web-Resume/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/Web-Resume/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
     "static/media/expGreen.svg": "/Web-Resume/static/media/expGreen.dffa1cc66a55ae11be49b61753f4c221.svg",
     "static/media/expBlack.svg": "/Web-Resume/static/media/expBlack.777d4bbac8b116d24970ad5964ed8cc9.svg",
@@ -11,8 +12,11 @@
     "static/media/expPink.svg": "/Web-Resume/static/media/expPink.40a7690a4f1db23209db1a06c4b8c10a.svg",
     "static/media/expPurple.svg": "/Web-Resume/static/media/expPurple.96a6bf6351cdcf2af2a140c708d9912b.svg",
     "static/media/expYellow.svg": "/Web-Resume/static/media/expYellow.22be417c6d1c281c3b4b6ee0e80f0a5f.svg",
+    "static/media/webconfernce.svg": "/Web-Resume/static/media/webconfernce.6b7cacba21ae750d595b640f7e4e96d3.svg",
+    "static/media/kiosk.svg": "/Web-Resume/static/media/kiosk.8080e26c837a6e972d986688eed1255e.svg",
     "static/media/profile_photo.jpeg": "/Web-Resume/static/media/profile_photo.b7f61d881c45f2bf3999.jpeg",
     "static/media/BestermindRegular.ttf": "/Web-Resume/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
+    "static/media/one.svg": "/Web-Resume/static/media/one.a3146128c9b6ecbd1ffa523e1f3f734d.svg",
     "static/media/resume.pdf": "/Web-Resume/static/media/resume.eb23c35000f4f19433e8.pdf",
     "static/media/contactsBlack.svg": "/Web-Resume/static/media/contactsBlack.888fb5429daafbdcf2e79d16adf73902.svg",
     "static/media/contactsBlue.svg": "/Web-Resume/static/media/contactsBlue.e1eaa2515ae80474560d0bad23694e02.svg",
@@ -126,12 +130,12 @@
     "static/media/vue.svg": "/Web-Resume/static/media/vue.47bdfb5a7a54d8ade2aa4c61d5148668.svg",
     "static/media/vuetifyjs.svg": "/Web-Resume/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/Web-Resume/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
-    "main.fb58cdc4.css.map": "/Web-Resume/static/css/main.fb58cdc4.css.map",
-    "main.1d428e53.js.map": "/Web-Resume/static/js/main.1d428e53.js.map",
+    "main.e3abfe56.css.map": "/Web-Resume/static/css/main.e3abfe56.css.map",
+    "main.a8dfec86.js.map": "/Web-Resume/static/js/main.a8dfec86.js.map",
     "787.0c33adce.chunk.js.map": "/Web-Resume/static/js/787.0c33adce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb58cdc4.css",
-    "static/js/main.1d428e53.js"
+    "static/css/main.e3abfe56.css",
+    "static/js/main.a8dfec86.js"
   ]
 }
