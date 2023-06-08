@@ -2,7 +2,9 @@
 import { BiShoppingBag, BiPencil } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
+import { SiAndroidstudio} from "react-icons/si";
+
+import { FaReact,FaAngular,FaAws,FaAppStoreIos,FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
 
  
 
@@ -14,13 +16,13 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
+        title: 'Android App Development',
+        icon: <SiAndroidstudio /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
+        title: 'IOS App Developemnt',
+        icon: <FaAppStoreIos />
     },
     // {
     //     id: 4,
@@ -35,13 +37,13 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Web Development',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
+        title: 'AWS Transciption',
+        icon: <FaAws />
     },
     // {
     //     id: 8,
@@ -50,8 +52,13 @@ export const servicesData = [
     // }, 
     {
         id: 9,
-        title: 'Video Editing',
+        title: 'Web Conference',
         icon: <FaVideo />
+    },
+    {
+        id: 10,
+        title: 'Angular Developement',
+        icon: <FaAngular />
     },
     // {
     //     id: 10,
@@ -60,19 +67,19 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
-    },
+        title: 'React Development',
+        icon: <FaReact />
+    }
+    // // {
+    // //     id: 12,
+    // //     title: 'Audio Transcription',
+    // //     icon: <AiFillAudio />
+    // // },
     // {
-    //     id: 12,
-    //     title: 'Audio Transcription',
-    //     icon: <AiFillAudio />
+    //     id: 13,
+    //     title: 'Blog Posting',
+    //     icon: <FaRegNewspaper />
     // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
 
 ]
 
